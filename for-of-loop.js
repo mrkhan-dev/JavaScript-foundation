@@ -1,4 +1,4 @@
-// for off loop
+// for of loop
 const fruits = ["mango", "banana", "apple", "pineapple", "jackfruits"];
 
 for (const fruit of fruits) {
